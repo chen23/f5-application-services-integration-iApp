@@ -3,9 +3,9 @@
 	"password":"admin",
 	"template_name":"latest",
 	"inheritedDevicegroup": "true",
-    "deviceGroup": "none",
+    "deviceGroup": "default",
     "inheritedTrafficGroup": "true",
-    "trafficGroup": "/Common/traffic-group-local-only",
+    "trafficGroup": "/Common/traffic-group-1",
     "partition":"Common",
 	"strings":[
 		{ "iapp__strictUpdates":"enabled" },
